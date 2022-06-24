@@ -8,4 +8,4 @@ It does **NOT HAVE A SAVE** feature or a way of exporting the track. If you want
 - Right click to go to view mode
 - Add new nodes in between two nodes by clicking on the track that lies inbetween the two nodes.
 # Version
-I think this build is using JDK-17.
+I think this build is using JDK-17 and needs JRE 1.8.0_302 or higher? Not sure it's been a while.
